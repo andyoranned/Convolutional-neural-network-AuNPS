@@ -15,4 +15,4 @@ Please acknowledge your source if you choose to reuse this code. As so much of i
 Feel free to use this as a starting point of building your own dataset for personal projects. There's not as much information out there for beginners to build a custom dataset. Most everything available for n00bs has you importing the MNIST dataset, but that has major limitations. 
 
 # This makes no sense... 
-Feel free to send me a text on Line if you need any help understandind what's going on here. You can find the original Jupyter notebook, along with the datasets that I used on my Kaggle account under the same username as my GitHub, @andyoranned. 
+Feel free to send me a text on Line @gluay_gluay_ if you need any help understandind what's going on here. You can find the original Jupyter notebook, along with the datasets that I used on my Kaggle account under the same username as my GitHub, @andyoranned. 
